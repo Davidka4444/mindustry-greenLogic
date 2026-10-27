@@ -3,7 +3,7 @@
     "displayName": "Green Logic",
     "author": "Davidka4444",
     "description": "Replaces the [purple]purple[] color of logic blocks with [green]green[]. Why not?",
-    "version": "1.0",
+    "version": "1.0.0",
     "hidden": true,
     "minGameVersion": "136",
     "dependencies": []
